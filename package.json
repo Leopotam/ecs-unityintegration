@@ -1,0 +1,20 @@
+{
+    "name": "com.leopotam.ecs-unityintegration",
+    "author": "Leopotam",
+    "displayName": "LeoECS Unity Integration",
+    "description": "LeoECS Unity Integration - Интеграция в редактор Unity содержит шаблоны кода, а так же предоставляет мониторинг состояния мира.",
+    "unity": "2020.3",
+    "version": "2022.3.22",
+    "keywords": [
+        "leoecs",
+        "ecs",
+        "performance",
+        "unity",
+        "integration"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Leopotam/ecs-unityintegration.git"
+    }
+}
