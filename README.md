@@ -1,5 +1,5 @@
 # Интеграция в редактор Unity для LeoECS
-[Unity integration](https://github.com/Leopotam/ecs-unityintegration) for [ECS framework](https://github.com/Leopotam/ecs).
+Интеграция в редактор с мониторингом состояния миров и систем.
 
 > Проверено на Unity 2020.3 (зависит от Unity) и содержит asmdef-описания для компиляции в виде отдельных сборок и уменьшения времени рекомпиляции основного проекта.
 
